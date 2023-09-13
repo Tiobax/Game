@@ -1,5 +1,4 @@
-﻿// ©2023, XYZ School. All rights reserved.
-// Authored by Aleksandr Rybalka (polterageist@gmail.com)
+﻿// Authored by Evgeny Buko
 
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
